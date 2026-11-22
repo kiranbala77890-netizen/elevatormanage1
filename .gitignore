@@ -1,0 +1,16 @@
+# build output
+out/
+target/
+*.class
+
+# local database created at runtime
+*.db
+
+# downloaded driver jars (get them from Maven Central, see README)
+lib/*.jar
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.DS_Store
